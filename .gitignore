@@ -1,0 +1,4 @@
+node_modules/
+.chrome/
+shot-*.png
+cdp-*.png
